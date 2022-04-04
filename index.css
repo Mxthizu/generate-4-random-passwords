@@ -73,3 +73,10 @@ hr {
     width: 210px;
     text-align: center
 }
+
+@media screen and (max-width: 800px) {
+    .password-el {
+        margin: revert;
+        width: 100%;
+    }
+}
