@@ -62,6 +62,7 @@ hr {
 
 #passwords {
     width: 100%;
+    display: none;
 }
 
 .password-el {
